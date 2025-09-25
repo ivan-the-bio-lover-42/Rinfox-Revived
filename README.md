@@ -27,6 +27,15 @@ Here is a rough list of changes:
 
 Installation Instructions:
 
+NOTE: If Firefox is already installed, uninstall it to ensure you are working with a clean 115.28.0esr install. If you don't, then the current Firefox configuration may interfere with installation of the theme.
+NOTE: Make sure you uninstall Firefox updates via the registry. Otherwise, Firefox will IMMEDIATELY update even if you installed 115.28.0esr and break the theme in which case you'll need to start over. To prevent this, do the following:
+
+1) Open regedit and navigate to HKEY_LOCAL_MACHINE\Software\Policies
+2) Create a subkey and name it Mozilla
+3) Under that subkey, create a subkey called Firefox. The registry address should now read HKEY_LOCAL_MACHINE\Software\Policies\Mozilla\Firefox
+4) Within this subkey, add a DWORD value and call it DisableAppUpdate. Then set it to 1.
+5) Proceed with installing the theme.
+
 For user convenience, I have included all the files necessary to get the theme going. The two directories you will modify are the profile and installation folders.
 - Installation Directory (C:\Program Files\Mozilla Firefox)
   - xul.dll: This is the native controls patch (credit to Isabella) for Firefox 115ESR. I have patched it to function with 115.28.0esr, the latest 115esr release.
@@ -75,6 +84,9 @@ Clicking the help button may trigger an error message saying Help and Support is
 
 Credits:
 Rinfox - travy patty, yuvia08
+
 Native Controls patch - ImSwordQueen, kawapure
+
 FeedBro - Nodetics
+
 All Tabs - William Wong
