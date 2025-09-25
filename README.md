@@ -71,6 +71,8 @@ You can get the feed toolbar button here. It is the Feedbro extension by Nodetic
 
 You can get the all tabs button here. It is TipTab by William Wong: https://addons.mozilla.org/en-US/firefox/addon/tip-tab/
 
+Clicking the help button may trigger an error message saying Help and Support isn't installed. If this happens on Windows 7 or if you've already restored 7 Help and Support on 10, edit the HelpButtonun.uc.js script in the chrome folder and find the user path - edit it to your username and then clear the Firefox startup cache. This should fix the issue.
+
 Credits:
 Rinfox - travy patty, yuvia08
 Native Controls patch - ImSwordQueen, kawapure
