@@ -64,3 +64,15 @@ Notification Icons:
 
 - Taskbar jumplist icons:
 <img width="247" height="187" alt="image" src="https://github.com/user-attachments/assets/9cd332db-8625-4d4b-9478-eea1874ca21d" />
+
+Additional Stuff:
+
+You can get the feed toolbar button here. It is the Feedbro extension by Nodetics: https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/
+
+You can get the all tabs button here. It is TipTab by William Wong: https://addons.mozilla.org/en-US/firefox/addon/tip-tab/
+
+Credits:
+Rinfox - travy patty, yuvia08
+Native Controls patch - ImSwordQueen, kawapure
+FeedBro - Nodetics
+All Tabs - William Wong
