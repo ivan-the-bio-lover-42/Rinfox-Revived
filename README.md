@@ -55,28 +55,28 @@ For user convenience, I have included all the files necessary to get the theme g
 Hope you enjoy it, this was a fantastic project to work on and I amm glad to be able to share it with the community.
 
 ## Gallery
-- PDF Viewer with Reader Mode: \
+- PDF Viewer with Reader Mode:
 <img width="1100" height="671" alt="image" src="https://github.com/user-attachments/assets/22ea9bd9-3d40-4ce0-bd35-81dbf8d87406" />
 
 
 Notification Icons:
-- Allow notifications: \
+- Allow notifications:
 <img width="386" height="63" alt="image" src="https://github.com/user-attachments/assets/ff132ee9-2fb2-4f5d-85d1-3fd4e6be847b" />
 
 
-- Save login: \
+- Save login:
 <img width="261" height="66" alt="image" src="https://github.com/user-attachments/assets/256450c7-4e8f-44f3-96dd-3df76cab8073" />
 
 
-- Share location: \
+- Share location:
 <img width="425" height="179" alt="image" src="https://github.com/user-attachments/assets/68dd06ab-c685-4e2d-bed2-efb3b039c8a9" />
 
 
-- Save card info: \
+- Save card info:
 <img width="455" height="227" alt="image" src="https://github.com/user-attachments/assets/af878315-975d-4ad8-8d24-0df7ce60cc1f" />
 
 
-- Taskbar jumplist icons: \
+- Taskbar jumplist icons:
 <img width="247" height="187" alt="image" src="https://github.com/user-attachments/assets/9cd332db-8625-4d4b-9478-eea1874ca21d" />
 
 ## Additional Stuff
